@@ -21,7 +21,7 @@
       <h2>Technologies Used</h2>
       <ul>
         <li>Frontend: HTML, CSS, JavaScript, Bootstrap</li>
-        <li>Backend: Node.js, Express.js, MongoDB</li>
+        <li>Backend: Node.js, MongoDB</li>
         <li>Database: MongoDB Atlas</li>
         <li>Version Control: Git, GitHub</li>
       </ul>
@@ -52,10 +52,7 @@
         <li>Create a pull request describing your changes and why they are beneficial.</li>
       </ol>
     </section>
-    <section id="license">
-      <h2>License</h2>
-      <p>This project is licensed under the <a href="LICENSE">MIT License</a>, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.</p>
-    </section>
+    
   </main>
 </body>
 </html>
