@@ -22,7 +22,6 @@
                 <code>git clone https://github.com/your-username/rotaract-donation-website.git</code>
                 <li>Navigate to the project directory:</li>
                 <code>cd rotaract-donation-website</code>
-                <li>[Additional installation steps, if any, such as setting up the database or configuring environment variables.]</li>
             </ol>
         </section>
         <section>
@@ -30,16 +29,14 @@
             <ol>
                 <li>Start the frontend server:</li>
                 <code>npm start</code>
-                <li>[Instructions for accessing the website, submitting donations, and managing the database.]</li>
             </ol>
         </section>
         <section>
             <h2>Technologies Used</h2>
             <ul>
                 <li>HTML5, CSS3, JavaScript</li>
-                <li>[Specific frontend framework/library, if applicable]</li>
-                <li>[Specific backend technology/framework, e.g., Node.js, Express.js, MySQL, MongoDB]</li>
-                <li>[Any additional technologies or tools used, such as charting libraries or authentication middleware]</li>
+                <li>[bootstrap]</li>
+                <li>[ Node.js, MongoDB]</li>
             </ul>
         </section>
         <section>
