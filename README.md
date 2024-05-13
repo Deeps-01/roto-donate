@@ -35,8 +35,8 @@
             <h2>Technologies Used</h2>
             <ul>
                 <li>HTML5, CSS3, JavaScript</li>
-                <li>[bootstrap]</li>
-                <li>[ Node.js, MongoDB]</li>
+                <li>bootstrap</li>
+                <li> Node.js, MongoDB </li>
             </ul>
         </section>
         <section>
@@ -49,14 +49,7 @@
                 <li>Create a new Pull Request.</li>
             </ol>
         </section>
-        <section>
-            <h2>License</h2>
-            <p>This project is licensed under the [License Name] License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
-        </section>
-        <section>
-            <h2>Contact</h2>
-            <p>For any inquiries or support, please contact [Your Name] at [Your Email].</p>
-        </section>
+       
     </main>
 </body>
 </html>
