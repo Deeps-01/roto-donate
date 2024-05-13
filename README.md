@@ -1,12 +1,5 @@
-# roto-donations-website
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rotaract Club NITK Chapter Donation Management Website</title>
-</head>
+
 <body>
     <header>
         <h1>Rotaract Club NITK Chapter Donation Management Website</h1>
