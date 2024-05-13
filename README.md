@@ -1,56 +1,61 @@
-
-
 <body>
-    <header>
-        <h1>Rotaract Club NITK Chapter Donation Management Website</h1>
-        <p>Welcome to the Rotaract Club NITK Chapter's donation management website repository! This web application is designed to receive and maintain donations received by the club from various organizations.</p>
-    </header>
-    <main>
-        <section>
-            <h2>Features</h2>
-            <ul>
-                <li><strong>Donation Submission:</strong> Organizations can submit their donations through a user-friendly form on the website.</li>
-                <li><strong>Database Management:</strong> The backend databases efficiently store and manage donation records, ensuring data integrity and accessibility.</li>
-                <li><strong>User Authentication:</strong> Secure user authentication mechanisms are implemented to manage access to donation records and administrative functions.</li>
-                <li><strong>Data Visualization:</strong> Interactive charts and graphs provide insights into donation trends and statistics.</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Installation</h2>
-            <ol>
-                <li>Clone the repository to your local machine:</li>
-                <code>git clone https://github.com/your-username/rotaract-donation-website.git</code>
-                <li>Navigate to the project directory:</li>
-                <code>cd rotaract-donation-website</code>
-            </ol>
-        </section>
-        <section>
-            <h2>Usage</h2>
-            <ol>
-                <li>Start the frontend server:</li>
-                <code>npm start</code>
-            </ol>
-        </section>
-        <section>
-            <h2>Technologies Used</h2>
-            <ul>
-                <li>HTML5, CSS3, JavaScript</li>
-                <li>bootstrap</li>
-                <li> Node.js, MongoDB </li>
-            </ul>
-        </section>
-        <section>
-            <h2>Contributing</h2>
-            <ol>
-                <li>Fork the repository.</li>
-                <li>Create a new branch (<code>git checkout -b feature-improvement</code>).</li>
-                <li>Make your changes and commit them (<code>git commit -am 'Add new feature'</code>).</li>
-                <li>Push to the branch (<code>git push origin feature-improvement</code>).</li>
-                <li>Create a new Pull Request.</li>
-            </ol>
-        </section>
-       
-    </main>
+  <header>
+    <h1>Rotaract Club NITK Chapter - Roto Donate</h1>
+  </header>
+  <main>
+    <section id="introduction">
+      <h2>Introduction</h2>
+      <p>Welcome to the Roto Donate project repository! This project aims to provide a platform for receiving and maintaining donations received by the Rotaract Club NITK Chapter from various organizations. The project includes both frontend webpage development and backend database management.</p>
+    </section>
+    <section id="features">
+      <h2>Features</h2>
+      <ul>
+        <li>User-friendly frontend interface for making donations.</li>
+        <li>Donation history display for users to track their contributions.</li>
+        <li>Admin backend for managing donation records and club activities.</li>
+        <li>Secure database management to ensure data integrity and confidentiality.</li>
+        <li>Responsive design for optimal viewing across different devices.</li>
+      </ul>
+    </section>
+    <section id="technologies-used">
+      <h2>Technologies Used</h2>
+      <ul>
+        <li>Frontend: HTML, CSS, JavaScript, Bootstrap</li>
+        <li>Backend: Node.js, Express.js, MongoDB</li>
+        <li>Database: MongoDB Atlas</li>
+        <li>Version Control: Git, GitHub</li>
+      </ul>
+    </section>
+    <section id="setup-instructions">
+      <h2>Setup Instructions</h2>
+      <ol>
+        <li>Clone the repository to your local machine:</li>
+        <pre><code>git clone https://github.com/Deeps-01/roto-donate.git</code></pre>
+        <li>Navigate to the project directory:</li>
+        <pre><code>cd roto-donate</code></pre>
+        <li>Install dependencies:</li>
+        <pre><code>npm install</code></pre>
+        <li>Create a <code>.env</code> file in the root directory and add your MongoDB connection URI:</li>
+        <pre><code>MONGODB_URI=your_mongodb_uri_here</code></pre>
+        <li>Start the server:</li>
+        <pre><code>npm start</code></pre>
+        <li>Open your browser and visit <code>http://localhost:3000</code> to view the website.</li>
+      </ol>
+    </section>
+    <section id="contributing">
+      <h2>Contributing</h2>
+      <p>We welcome contributions to improve and enhance this project. If you'd like to contribute, please follow these guidelines:</p>
+      <ol>
+        <li>Fork the repository and create a new branch for your feature or bug fix.</li>
+        <li>Make your changes and ensure they adhere to the project's coding standards.</li>
+        <li>Test your changes thoroughly.</li>
+        <li>Create a pull request describing your changes and why they are beneficial.</li>
+      </ol>
+    </section>
+    <section id="license">
+      <h2>License</h2>
+      <p>This project is licensed under the <a href="LICENSE">MIT License</a>, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes.</p>
+    </section>
+  </main>
 </body>
 </html>
-
